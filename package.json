@@ -1,0 +1,47 @@
+{
+  "name": "Jaexploit",
+  "version": "8.0.0",
+  "description": "this bot new update",
+  "main": "start.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node start.js",
+    "test": "test start.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "axios": "^0.21.1",
+    "brainly-scraper": "^1.0.3",
+    "cfonts": "^2.9.3",
+    "cheerio": "^1.0.0-rc.10",
+    "child-process": "^1.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "hxz-api": "^1.0.1",
+    "imgbb-uploader": "^1.3.3",
+    "jsdom": "^17.0.0",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "performance-now": "^2.1.0",
+    "qrcode": "^1.4.4",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "yt-search": "^2.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AnggaZyy/AnggaBotWhatsap.git"
+  },
+  "keywords": [
+    "Anggazyy",
+    "By AnggaMods"
+  ],
+  "author": "AnggaZyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnggaZyy/AnggaBotWhatsapp/issues"
+  },
+  "homepage": "https://github.com/AnggaZyy/AnggaBotWhatsapp#readme"
+}
